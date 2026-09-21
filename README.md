@@ -18,7 +18,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Uninassau, com gr
 - ⚙️ Foco em desenvolvimento **Backend** utilizando **Java** e **Node.js**.
 - 🗄️ Experiência na modelagem e integração de bancos de dados relacionais e não-relacionais (**MySQL**, **Firebase**, **Supabase**).
 - 📱 Já desenvolvi projetos fullstack e interfaces mobile no passado (com Flutter e React Native), o que me dá uma boa visão de como o front-end consome as APIs que eu construo.
-- 🎮 Quando não estou programando, provavelmente estou jogando algo (Elden Ring, God of War), assistindo a algum anime, cuidando do meu Husky ou fazendo upgrades no meu setup.
 
 <br>
 
